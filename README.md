@@ -2,9 +2,13 @@
 Welcome to the Weather Forecasting Site GitHub repository! This web application provides real-time weather information for any city around the world. The site is built using an API application that fetches and displays accurate weather data, allowing users to stay informed about current and upcoming weather conditions.
 
 Table of Contents:-
+
 •	Features
+
 •	API Usage
+
 •	Dependencies
+
 •	Contributing
 
 Features
