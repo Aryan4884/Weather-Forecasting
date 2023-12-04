@@ -23,10 +23,14 @@ Features
 
 
 API Usage
+
+
 The Weather Forecasting Site utilizes the OpenWeatherMap API to retrieve weather data. To use the API, you'll need to sign up for a free API key on their website.
 
 
 Dependencies
+
+
 This project relies on the following dependencies:
 o	jQuery: A fast, small, and feature-rich JavaScript library.
 o	Bootstrap: A popular front-end component library for building responsive websites.
@@ -34,5 +38,7 @@ These dependencies are included in the repository for convenience.
 
 
 Contributing
+
+
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
