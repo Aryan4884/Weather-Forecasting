@@ -14,6 +14,7 @@ Table of Contents:-
 
 Features
 
+
 	City-based Weather Forecast: Enter the name of any city, and the site will provide you with up-to-date weather information, including temperature, humidity, wind speed, and more.
 
 	Responsive Design: The site is designed to be user-friendly and responsive, ensuring a seamless experience across various devices, from desktops to smartphones.
