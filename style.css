@@ -17,7 +17,7 @@ body {
   background-image: url(images/maxresdefault.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: 100% 100%;
+  background-size: 100vw 100vh;
   background-position: center;
   color: black ;
 
@@ -39,7 +39,7 @@ body {
 
 .col-md-4 {
   margin-top: 20px;
-  padding-left: 150px;
+  padding-left: 15vw;
 
 }
 .col-md-12 {
@@ -50,13 +50,13 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-left: 80px;
+  padding-left: 8vw;
 }
 
 .col-12col-md-8 {
   color: rgb(165, 165, 204);
-  height: 300px;
-  padding-left: 250px;
+  height: 300vw;
+  padding-left: 25vw;
 }
 
 h1 {
@@ -79,14 +79,14 @@ h2{
   display:block;
   text-align: center;
   background-color: rgba(255, 255, 255, 0.363);
-  width: 400px;
+  width: 25vw;
   border-style:outset ;
   
 }
 .cities {
   display: block;
   font-family:Courier New;
-  margin: 5px;
+  margin: 5vw;
   border-style:outset;
   background-color: rgba(14, 231, 87, 0.363);
   display: flex;
@@ -101,7 +101,7 @@ h2{
   margin: 15px;
   color: black;
   font-size: 18px;
-  padding: 50px;
+  padding: 50vw;
   display:flex;
   justify-content: center;
   align-items: center;
